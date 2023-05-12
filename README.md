@@ -18,3 +18,16 @@ Slides are named according to the date they took place. Below is a more detailed
     <summary>Abstract</summary>
       In this talk, we will discuss how to compare graphs using graph kernel methods. In a nutshell, even deciding whether two graphs are isomorphic is not trivial, let alone determining a degree of similarity. We will discuss some common techniques, and then apply those to the analysis and design of polymers in chemistry. We will also discuss how to create explanations of decisions based on such algorithms.
   </details>
+- `2023_05_05`: Desvendando o ChatGPT
+  - Bruna Bazaluk
+    <details>
+      <summary>Bio</summary>
+      Bacharela em Ciência da Computação pelo IME-USP e mestranda em Ciência da Computação no
+      IME-USP no Laboratório de Lógica, Inteligência Artificial e Métodos Formais.
+    </details>
+  <details>
+    ChatGPT, o famoso chat que sabe responder qualquer coisa! Será mesmo? Mas como ele funciona?
+    Quais suas limitações? A IA vai dominar o mundo? Neste seminário tentarei responder algumas
+    dessas perguntas dando intuições de como o ChatGPT funciona, mostrar exemplos ao vivo de quando
+    ele não responde como esperado e discutir seus possíveis efeitos na sociedade.
+  </details>
