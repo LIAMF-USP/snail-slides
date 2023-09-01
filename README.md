@@ -31,3 +31,35 @@ Slides are named according to the date they took place. Below is a more detailed
     dessas perguntas dando intuições de como o ChatGPT funciona, mostrar exemplos ao vivo de quando
     ele não responde como esperado e discutir seus possíveis efeitos na sociedade.
   </details>
+- `2023_08_25`: Thinking with Circuits: From Logic to Probabilistic and Back
+  - Renato Lui Geh
+    <details>
+      <summary>Bio</summary>
+      Renato received his BSc and MSc in Computer Science at the University of São Paulo and is
+      currently an incoming PhD student at the University of California, Los Angeles (UCLA).
+    </details>
+  <details>
+    We explore the world of logic and probabilistic circuits from the basics, showing how
+    circuits are able to unify logic and probabilistic reasoning under a single framework. Our
+    journey starts from the century-old origins of logic circuits, rooted in the foundations of
+    Computer Science and knowledge representation, and ends in state-of-the-art applications of
+    probabilistic circuits in neurosymbolic machine learning and reasoning. No background besides
+    basic understanding of logic and probabilities is needed to follow this talk.
+  </details>
+- `2023_09_01`:
+  - Renato Lui Geh
+    <details>
+      <summary>Bio</summary>
+      Renato received his BSc and MSc in Computer Science at the University of São Paulo and is
+      currently an incoming PhD student at the University of California, Los Angeles (UCLA).
+    </details>
+  <details>
+    dPASP is a new declarative programming language based around probabilistic-logic programming.
+    The idea behind dPASP is to provide an intuitive and flexible language for neurosymbolic
+    learning. In a nutshell, by combining the high-level reasoning of probabilistic and logic
+    programming, with the low-level perception of neural networks, dPASP offers a powerful hybrid
+    toolbox for inference and learning in a wide variety of possible semantics, enabling the
+    presence of contradictions and imprecision within the knowledge base. In this talk, we provide
+    a high-level introduction to dPASP, showcasing features of the dPASP system. We then show the
+    current challenges and possible ideas for further research in the field.
+  </details>
